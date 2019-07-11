@@ -5,6 +5,12 @@ This is an experiment and a proof of concept rather than a project.
 If the library will be useful and performant enough then it can become a project.
 The file `paper-core.js` is the original distribution before I butchered it to `naked-paper.js` :) 
 
+# Gain Plugin
+
+Gain Plugin is an example which I have used to try `naked-paper.js`. The original example lives in https://github.com/nick-thompson/blueprint/tree/master/examples/GainPlugin.
+To build the Gain Plugin please check https://github.com/nick-thompson/blueprint for instructions.
+If you are building my one. Don't forget to put `naked-paper.js` in to `node_modules` folder!
+
 # possible use with blueprint
 Copy `naked-paper.js` to `node_modules` folder.
 
