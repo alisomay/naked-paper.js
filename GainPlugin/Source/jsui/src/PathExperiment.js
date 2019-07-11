@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { EventBridge, Image, Text, View } from "juce-blueprint";
-import Paper from "paper-core-edit";
+import Paper from "naked-paper";
 
 class PathExperiment extends Component {
   constructor(props) {
