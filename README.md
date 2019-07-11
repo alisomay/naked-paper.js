@@ -8,7 +8,7 @@ Then,
 
 ```
 import React, { Component } from "react";
-import { EventBridge, Image, Text, View } from "juce-blueprint";
+import { Image, View } from "juce-blueprint";
 import Paper from "naked-paper";
 
 class MyClass extends Component {
