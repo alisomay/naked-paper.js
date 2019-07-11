@@ -3,7 +3,7 @@ An attempt to free paper.js from DOM and Canvas dependencies. Especially for mak
 
 This is an experiment and a proof of concept rather than a project. 
 If the library will be useful and performant enough then it can become a project.
-The file `paper-core.js` is the distribution I butchered :) 
+The file `paper-core.js` is the original distribution before I butchered it to `naked-paper.js` :) 
 
 # possible use with blueprint
 Copy `naked-paper.js` to `node_modules` folder.
