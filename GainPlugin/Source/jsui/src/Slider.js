@@ -2,7 +2,7 @@ import ParameterValueStore from "./ParameterValueStore";
 import React, { Component } from "react";
 import { Image, NativeMethods, Text, View } from "juce-blueprint";
 
-import Paper from "paper-core-edit";
+import Paper from "naked-paper";
 class Slider extends Component {
   constructor(props) {
     super(props);
