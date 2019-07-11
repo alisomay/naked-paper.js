@@ -1,6 +1,9 @@
 # naked-paper.js
 An attempt to free paper.js from DOM and Canvas dependencies. Especially for making it usable with Nick Thompson's exciting project blueprint. https://github.com/nick-thompson/blueprint
 
+This is an experiment and a proof of concept rather than a project. 
+If the library will be useful and performant enough then it can become a project.
+
 # possible use with blueprint
 Copy `naked-paper.js` to `node_modules` folder.
 
